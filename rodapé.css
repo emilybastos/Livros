@@ -12,7 +12,7 @@ hr {
 }
 
 
-@media screen and (min-width: 124px) {
+@media screen and (min-width: 1024px) {
     .rodapé {
         display: flex;
         justify-content: space-around;
@@ -44,7 +44,7 @@ hr {
     }
 }
 
-@media screen and (min-width: 128px) {
+@media screen and (min-width: 1728px) {
     .lista-rodapé {
         border-left: 1px solid var(--cinza-claro);
         padding-left: 1em;
